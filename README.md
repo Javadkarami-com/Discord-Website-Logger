@@ -1,2 +1,2 @@
 # Discord-Website-Logger
-Will be upload Tomorrow
+Will be uploaded Tomorrow
