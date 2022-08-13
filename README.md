@@ -4,8 +4,8 @@
 This App Using for Sending Visitors ip Address with Their Information to The via **Discord Webhook**</br>
 information that app send contain visitors ISP, Country & Region,  Location, Client info and more ...
 # Setting Up App 💡
-in `config.json` -> `Token` paste your **Discord Webhook** url </br>
-in `config.json` -> `Key` paste your **APIKEY** created in https://ipgeolocation.io/signup.html
+in `config.json` -> *`"Token"`* paste your **Discord Webhook** url </br>
+in `config.json` -> *`"Key"`* paste your **APIKEY** created in https://ipgeolocation.io/signup.html
 # Start app ▶️
 its simple, Just Open index.html </br>
 # Hope you enjoy it 💓
