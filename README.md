@@ -1,4 +1,5 @@
 # 🌐 Discord Website Logger 🌐
+![Personal Website Image](https://cdn.discordapp.com/attachments/1004894678350573608/1008144798328291439/unknown.png)
 ![Personal Website Image](https://cdn.discordapp.com/attachments/1004894678350573608/1008144798328291439/unknown.png)</br>
 # About This Account Handler ℹ️
 First of all this Handler just for Discord Account(not others dont be stupid)</br>
