@@ -6,6 +6,11 @@ information that app send contain visitors ISP, Country & Region,  Location, Cli
 # Setting Up App 💡
 in `config.json` -> *`"Token"`* paste your **Discord Webhook** url </br>
 in `config.json` -> *`"Key"`* paste your **API KEY** created in https://ipgeolocation.io/signup.html
+# Extra option 🪛
+Add This to your index.html file to redirect to another page after visitor information logged to webhook
+```
+    <meta http-equiv="refresh" content="3; URL=YOUR-WEBPAGE-ADDRESS" />
+```
 # Start app ▶️
 its simple, Just Open index.html </br>
 # Hope you enjoy it 💓
