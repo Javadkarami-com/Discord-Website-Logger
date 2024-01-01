@@ -15,3 +15,4 @@ Add This to your index.html file to redirect to another page after visitor infor
 its simple, Just Open index.html </br>
 # Hope you enjoy it 💓
 Don't forget to star repository ⭐
+ 
